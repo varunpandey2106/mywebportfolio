@@ -49,8 +49,7 @@ export default function Home({ previousPathname }) {
             )}
           >
             I am a full-stack engineer capable of building scalable software applications.
-            I occasionally
-            dabble in generative AI
+        
           </p>
 
           <Button
