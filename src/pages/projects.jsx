@@ -100,7 +100,7 @@ export default function Projects() {
       </Head>
       <SimpleLayout
         title="Featured Projects"
-        intro="These are some of the projects that I'm most proud of."
+        intro="These are some of the projects that I am most proud of."
       >
         <ul
           role="list"
