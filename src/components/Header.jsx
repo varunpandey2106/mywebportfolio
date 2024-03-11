@@ -106,7 +106,7 @@ function DesktopNavigation(props) {
         <NavItem href="/projects">Projects</NavItem>
         <NavItem href="/certifications">Certifications</NavItem>
         {/* <NavItem href="/resume">Resume</NavItem> */}
-        <NavItem href="https://drive.google.com/file/d/1_jPTVazuNO825fjTk677pLQO-yO6Dbh9/view?usp=drive_link" target="_blank" rel="noopener noreferrer">Resume</NavItem>
+        <NavItem href="https://drive.google.com/file/d/1B0-3uQ-rAHnrvGnpsFEUs6nPmqtFDpG4/view" target="_blank" rel="noopener noreferrer">Resume</NavItem>
 
 
 
