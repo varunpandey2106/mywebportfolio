@@ -37,7 +37,7 @@ export default function Home({ previousPathname }) {
             <h1
               className="animate-gradient bg-gradient-to-r from-purple-500 via-green-500 to-pink-500 bg-clip-text pt-4 font-heading text-[1.6rem]
             tracking-wider text-transparent dark:from-purple-400
-            dark:via-green-400 dark:to-pink-400 sm:text-5xl"
+            dark:via-green-400 dark:to-red-400 sm:text-5xl"
             >
               I build things for the web.
             </h1>
