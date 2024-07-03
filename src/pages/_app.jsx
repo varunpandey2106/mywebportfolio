@@ -35,7 +35,7 @@ const poppins = Poppins({
   weight: ['400', '500', '700'],
 })
 
-const GA_MEASUREMENT_ID = process.env.NEXT_PUBLIC_MEASUREMENT_ID
+// const GA_MEASUREMENT_ID = process.env.NEXT_PUBLIC_MEASUREMENT_ID
 
 function usePrevious(value) {
   let ref = useRef()
