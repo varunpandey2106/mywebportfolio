@@ -20,7 +20,7 @@ const experienceData = [
   {
     company: 'Pravaah Consulting',
     role: 'Full Stack Developer Apprenticeship',
-    description: `Engaged in an apprenticeship as a Full Stack Developer intern, slated for involvement in a phone book web app project before receiving an alternative offer.`,
+    description: `Engaged in an apprenticeship as a Full Stack Developer intern.`,
     href: ''
   }
 ];
