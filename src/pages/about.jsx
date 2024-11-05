@@ -102,7 +102,7 @@ export default function About() {
             text-transparent dark:from-purple-400 dark:via-green-400
             dark:to-pink-400"
               >
-                Varun Pandey.
+                Varun Pandey
               </span>{' '}
               <br />I am from Mumbai, India.
             </h1>
